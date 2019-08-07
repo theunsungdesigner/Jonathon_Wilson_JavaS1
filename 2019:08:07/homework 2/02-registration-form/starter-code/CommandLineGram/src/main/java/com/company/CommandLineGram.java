@@ -62,18 +62,18 @@ public class CommandLineGram {
         System.out.println("have you ever built your own computer?");
         String questionOne = scan.nextLine();
 
+        System.out.println( questionOne);
+
+        System.out.println("If you could be your own superhero, who would you be?");
+        String questionTwo = scan.nextLine();
+
+        System.out.println( questionTwo );
 
 
 
 
 
 
-
-
-
-        int sum = num1 + num2;
-
-        System.out.println("the sum of your number is " + sum);
 
 
     }
