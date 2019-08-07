@@ -19,7 +19,7 @@ public class CommandLineGram {
         System.out.println( firstName + ", what is your last name?");
         String lastName = scan.nextLine();
 
-        System.out.println("thanks for that" +  "," + firstName + + lastName + "What is your email address ");
+        System.out.println("thanks for that" +  "," + firstName +  lastName + "What is your email address ");
         String emailAddress = scan.nextLine();
 
         System.out.println("thank you ! ! !" + emailAddress);
