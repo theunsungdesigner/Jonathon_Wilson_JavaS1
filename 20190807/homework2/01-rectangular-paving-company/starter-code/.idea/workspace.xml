@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad51002d-c614-4130-8f0a-5b095a434fbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../20190806/homework2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../20190806/homework2/.idea/homework2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../20190806/homework2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../20190806/homework2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../20190808/homework 2/01-Hi-Lo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../20190808/homework 2/01-Hi-Lo/.idea/01-Hi-Lo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../20190808/homework 2/01-Hi-Lo/.idea/01-Hi-Lo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../20190808/homework 2/01-Hi-Lo/starter-code/HiLo/src/main/java/com/company/HiLo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../20190808/homework 2/01-Hi-Lo/starter-code/HiLo/src/main/java/com/company/HiLo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/kata-instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/src/main/java/com/company/AChattyProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/src/main/java/com/company/APostcardFromMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/src/main/java/com/company/FormattedOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/src/main/java/com/company/MarvelTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/src/test/java/com/company/AChattyProgramTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/src/test/java/com/company/APostcardFromMeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/src/test/java/com/company/AllKatasTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/src/test/java/com/company/FormattedOutputTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/src/test/java/com/company/MarvelTableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/target/classes/META-INF/U1M1L1Katas.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/target/classes/com/company/AChattyProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/target/classes/com/company/APostcardFromMe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/target/classes/com/company/MarvelTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/target/test-classes/com/company/AChattyProgramTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/target/test-classes/com/company/APostcardFromMeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/target/test-classes/com/company/AllKatasTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/target/test-classes/com/company/FormattedOutputTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/target/test-classes/com/company/MarvelTableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/testfiles/AChattyProgram/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/testfiles/APostcardFromMe/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/testfiles/FormattedOutput/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:06/homework 2/starter-code/U1M1L1Katas/testfiles/MarvelTable/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/.idea/homework 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/.idea/libraries/Maven__com_github_stefanbirkner_system_rules_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/RectPavingCompany.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/U1M1L1Katas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/src/main/java/com/company/RectPavingCompany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/src/test/java/com/company/RectPavingCompanyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/testfiles/MultipleInputs/input0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/testfiles/MultipleInputs/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/01-rectangular-paving-company/starter-code/RectPavingCompany/testfiles/MultipleInputs/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/.idea/libraries/Maven__com_github_stefanbirkner_system_rules_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/CommandLineGram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/src/main/java/com/company/CommandLineGram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/src/test/java/com/company/CommandLineGramTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/testfiles/MultipleInputs/input0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/testfiles/MultipleInputs/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/CommandLineGram/testfiles/MultipleInputs/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/operators/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/operators/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/operators/operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/operators/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/02-registration-form/starter-code/operators/src/main/java/activities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/03-luxury-tax-calculator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/src/main/java/com/company/LuxuryTaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/src/test/java/com/company/LuxuryTaxCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/testfiles/MultipleInputs/input0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/testfiles/MultipleInputs/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/testfiles/MultipleInputs/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/kata-instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/main/java/com/company/AddFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/main/java/com/company/AddFiveAndDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/main/java/com/company/AddThirteen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/main/java/com/company/AverageThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/main/java/com/company/DoubleAndAddFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/main/java/com/company/MultiplyThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/main/java/com/company/SubtractTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/test/java/com/company/AddFiveAndDoubleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/test/java/com/company/AddFiveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/test/java/com/company/AddThirteenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/test/java/com/company/AllKatasTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/test/java/com/company/AverageThreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/test/java/com/company/DoubleAndAddFiveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/test/java/com/company/MultiplyThreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/src/test/java/com/company/SubtractTwoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/testfiles/MultipleInputs/input0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/testfiles/MultipleInputs/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/testfiles/MultipleInputs/input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/testfiles/SingleInputs/input0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/testfiles/SingleInputs/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2019:08:07/homework 2/katas/starter-code/U1M1L2Katas/testfiles/SingleInputs/input2.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1PAD86Npzs3aMkbc3LUlbBMGtNa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad51002d-c614-4130-8f0a-5b095a434fbe" name="Default Changelist" comment="" />
+      <created>1565307844438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565307844438</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
