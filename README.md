@@ -1,2 +1,2 @@
 # Jonathon_Wilson_JavaS1
- Ent-Grader
+small java applications
